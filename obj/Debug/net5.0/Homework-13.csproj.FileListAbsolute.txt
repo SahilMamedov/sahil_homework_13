@@ -1,0 +1,16 @@
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\bin\Debug\net5.0\Homework-13.exe
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\bin\Debug\net5.0\Homework-13.deps.json
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\bin\Debug\net5.0\Homework-13.runtimeconfig.json
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\bin\Debug\net5.0\Homework-13.runtimeconfig.dev.json
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\bin\Debug\net5.0\Homework-13.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\bin\Debug\net5.0\ref\Homework-13.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\bin\Debug\net5.0\Homework-13.pdb
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\obj\Debug\net5.0\Homework-13.csproj.AssemblyReference.cache
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\obj\Debug\net5.0\Homework-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\obj\Debug\net5.0\Homework-13.AssemblyInfoInputs.cache
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\obj\Debug\net5.0\Homework-13.AssemblyInfo.cs
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\obj\Debug\net5.0\Homework-13.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\obj\Debug\net5.0\Homework-13.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\obj\Debug\net5.0\ref\Homework-13.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\obj\Debug\net5.0\Homework-13.pdb
+C:\Users\Sahil\Desktop\Classroom1\classroom-13\Homework-13\Homework-13\obj\Debug\net5.0\Homework-13.genruntimeconfig.cache
