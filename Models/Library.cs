@@ -7,20 +7,7 @@ namespace Homework_13
     {
         public int _BookLimit { get; set; }
 
-        public void Hamsi()
-        {
-            foreach (Book book in Books)
-            {
-                Console.WriteLine($"Id: {book.ID} \n" +
-                  $"Name: {book._Name} \n" +
-                  $"Price: {book._Price} \n" +
-                  $"Count: {book._Count} \n" +
-                  $"AuthorName: {book._AuthorName} \n" +
-                  $"PageCount: {book._PageCount}");
-                Console.WriteLine();
-                Console.WriteLine();
-            }
-        }
+       
         public Library(int booklimit)
         {
             _BookLimit = booklimit;
